@@ -4,7 +4,9 @@ import java.util.*;
  * This class demonstrates sorting algorithms: QuickSort and MergeSort.
  * It includes methods to sort an array using both algorithms and a main method to test them.
  * 
- * The main method sorts two arrays and prints the sorted results.
+ * @author Rasha Alsaleh
+ * @version 1.0
+ * @since 14-April-2024
  */
 public class SortExample {
     /**
